@@ -7,6 +7,8 @@
 | Number of Attributes: | 4      |
 
 ---
+
+### Results:
  
  | Sample # | Best Accuracy | kernel | c   | gamma |
 |----------|---------------|--------|-----|-------|
@@ -20,3 +22,7 @@
 | 8        | 0.9980        | rbf    | 100 | 0.1   |
 | 9        | 0.9980        | rbf    | 100 | 0.1   |
 | 10       | 0.9975        | rbf    | 100 | 0.1   |
+
+### Convergence graph for the above result:
+
+![convergence graph](graph.png)
