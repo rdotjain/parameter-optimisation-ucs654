@@ -7,17 +7,6 @@
 | Number of Attributes: | 4      |
 
 ---
-
-[{'C': 100, 'gamma': 0.1, 'kernel': 'rbf'},
- {'C': 100, 'gamma': 0.1, 'kernel': 'rbf'},
- {'C': 100, 'gamma': 0.1, 'kernel': 'rbf'},
- {'C': 100, 'gamma': 0.1, 'kernel': 'rbf'},
- {'C': 100, 'gamma': 0.1, 'kernel': 'rbf'},
- {'C': 100, 'gamma': 0.1, 'kernel': 'rbf'},
- {'C': 100, 'gamma': 0.1, 'kernel': 'rbf'},
- {'C': 100, 'gamma': 0.1, 'kernel': 'rbf'},
- {'C': 100, 'gamma': 0.1, 'kernel': 'rbf'},
- {'C': 100, 'gamma': 0.1, 'kernel': 'rbf'}]
  
  | Sample # | Best Accuracy | kernel | c   | gamma |
 |----------|---------------|--------|-----|-------|
